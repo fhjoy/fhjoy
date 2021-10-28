@@ -1,13 +1,17 @@
+![web-design-g1dcff4878_1280](https://user-images.githubusercontent.com/82816011/139340113-52d85ab3-a803-47c5-b226-d469b3534212.jpg)
+
+
+
+
 ### Hallo, Ich bin Md. Faisal Hossain 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... MERN projects
+- 🌱 I’m currently learning ... MERN Stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
+- 😄 Pronouns... He/Him
 - ⚡ Fun fact: ... I love movies
 
 
