@@ -1,6 +1,8 @@
 
 
-https://user-images.githubusercontent.com/82816011/139347427-07730e80-3672-4615-8f79-6b08722ce1cb.mp4
+
+https://user-images.githubusercontent.com/82816011/139353734-5e75f2a8-9c38-434a-ba6b-7b02490541ca.mp4
+
 
 
 
@@ -12,18 +14,19 @@ I'm always up for new challenges and constructive criticism.
 <hr/>
 
 - 🌱 I’m currently learning ... MERN Stack
-- 👯 I’m looking to collaborate on ...In a Great team
+- 👯 I’m looking to collaborate on ... A Great team
 - 🤔 I’m looking for help with ... Job
 - 💬 Ask me about ... Anything
 - 😄 Pronouns... He/Him
-- ⚡ Fun fact: ... I love movies
 
 <hr/>
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/md-faisal-hossain-4b95661a4/" target="_blank" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;"></a>
 
-<br />
+</br>
+
+<hr/>
 
 ### ✊ Languages
 <p align="left"> 
@@ -39,7 +42,7 @@ I'm always up for new challenges and constructive criticism.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="40" height = "40"  style="max-width: 100%;">
 </p>
 
-<br />
+</br>
 
 ### :collision: Tools
 <p align="left"> 
@@ -49,7 +52,8 @@ I'm always up for new challenges and constructive criticism.
   <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;"> 
 </p>
 
-<br />
+</br>
+</br>
 
 ### :fist: Design
 <p align="left"> 
@@ -57,6 +61,6 @@ I'm always up for new challenges and constructive criticism.
   <img src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width: 100%;">
 </p>  
 
-<br />
+
 
 
