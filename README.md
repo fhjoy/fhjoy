@@ -64,6 +64,7 @@ I'm always up for new challenges and constructive criticism.
 ### 👍 Most Used Languages
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhjoy&theme=tokyonight"/>
 
+</br></br></br></br></br></br></br></br></br></br></br></br>
 
 ### 👐 Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fhjoy.fhjoy&left_color=green&right_color=red)
