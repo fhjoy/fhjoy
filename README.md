@@ -70,7 +70,7 @@ I'm always up for new challenges and constructive criticism.
 ### 👐 Profile visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fhjoy.fhjoy&left_color=green&right_color=red)
 
-</br></br></br></br></br>
+</br></br></br></br></br></br>
 
 ## 😂 A random joke !
 ![Jokes Card](https://readme-jokes.vercel.app/api)
