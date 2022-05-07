@@ -4,9 +4,9 @@ I am a Web developer with a strong desire to create new things. To get greater a
 I'm always up for new challenges and constructive criticism. 
 
 
-- 🌱 I’m currently learning ... MERN Stack
+
 - 👯 I’m looking to collaborate on ... A Great team
-- 🤔 I’m looking for help with ... Job (Working student/Thesis/Internship)
+- 🤔 I’m looking for help with ... Full-time entry level opportunities 
 - 💬 Ask me about ... Anything
 
 </br>
