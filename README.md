@@ -48,10 +48,10 @@ I'm always up for new challenges and constructive criticism.
 </br>
 
 
-### :fist: Design
+### :fist: UI/UX
 <p align="left"> 
 <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;">
-&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524440-1612cb5e-f389-4159-bfdf-c6b31c8c6784.png"alt="figma" width="40" height="40"style="max-width: 100%;">
+&nbsp;
 </p> 
 </br>
 
