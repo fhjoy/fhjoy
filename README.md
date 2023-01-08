@@ -52,13 +52,12 @@ I'm always up for new challenges and constructive criticism.
 ### 💪 Tools
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/82816011/139558364-1413840c-fbf7-4457-abc0-6ceecca80020.png" alt="Agile" width="40" height="40" style="max-width: 100%;">
-&nbsp; <img  alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" &nbsp; style="max-width: 100%;">
-&nbsp; <img  alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;">
- &nbsp;&nbsp;<img  alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;"> 
-&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524231-01ec31b0-e775-44b8-9f32-727ea161cedc.png" alt="Ubuntu" width="40" height="40" style="max-width: 100%;">
-&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523980-3b145ccb-f2ec-4126-a0f4-9cf7b7db8c22.png"alt="WordPress" width="40" height="40" style="max-width: 100%;">
+&nbsp; <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40" style="max-width: 100%;">
+&nbsp; <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40" style="max-width: 100%;">
+&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523980-3b145ccb-f2ec-4126-a0f4-9cf7b7db8c22.png" alt="WordPress" width="40" height="40" style="max-width: 100%;">
 &nbsp;<img src="https://user-images.githubusercontent.com/82816011/139556852-a6bf3014-532a-4718-90c6-657b55445c98.png" alt="SEO" width="40" height="40" style="max-width: 100%;">
 &nbsp;<img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
+&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524231-01ec31b0-e775-44b8-9f32-727ea161cedc.png" alt="Ubuntu" width="40" height="40" style="max-width: 100%;">
 </p>
 
 </br>
