@@ -4,9 +4,12 @@ I am a Web developer with a strong desire to create new things. To get greater a
 I'm always up for new challenges and constructive criticism. 
 
 
-- 👯 I’m looking to collaborate on --> A Great team
-- 🤔 I’m looking for help with --> Full-time opportunities 
-- 💬 Ask me about --> Anything
+* 🌍  I'm based in --> Offenburg, Germany
+* 🤝  I'm open to collaborating on --> JavaScript/TypeScript projects with a great team.
+* 🤔 I’m looking for help with --> Full-time opportunities
+* 🖥️  See my portfolio at --> [Résumé](https://fhjoy.github.io/Resume/)
+* 🚀  I'm currently working on --> [NATIF AI](https://natif.ai/)
+* 💬 Ask me about --> Anything
 
 </br>
 
