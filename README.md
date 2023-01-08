@@ -1,5 +1,5 @@
 
-### Hallo, Ich bin Md. Faisal Hossain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hallo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, Ich bin Faisal Hossain 
 I am a Web developer with a strong desire to create new things. To get greater achievements, I am committed to learning and self-development.
 I'm always up for new challenges and constructive criticism. 
 
@@ -14,14 +14,14 @@ I'm always up for new challenges and constructive criticism.
 </br>
 
 
-### 📫 Reach me
+## 📫 Reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Faisal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-faisal-hossain-germany/) [![Mail Badge](https://img.shields.io/badge/-Hossain-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:faisalh.iu@gmail.com)
- 
+[![Linkedin Badge](https://img.shields.io/badge/-Faisal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-faisal-hossain-germany/) [![Mail Badge](https://img.shields.io/badge/-Hossain-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:faisalh.iu@gmail.com) 
+
 </br>
 
 
-### 👇 Languages
+## <img src="https://user-images.githubusercontent.com/82816011/211217027-7e0a442b-acfc-4d15-8ec3-11a593199ec1.png" width="28px" alt="hi"> Tech Stack
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
@@ -39,7 +39,7 @@ I'm always up for new challenges and constructive criticism.
 </p>
 </br>
 
-### ⚡ Testing
+## 🧪 Testing
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/82816011/211215916-8f40e1c4-7b3e-431e-9aee-05b99c9a52c7.png" alt="Cypress" width="60" height="40" style="max-width: 100%;">
 &nbsp; <img src="https://user-images.githubusercontent.com/82816011/211215929-91de0c0f-114f-4fe4-a4fd-113368af9dee.png" alt="Jest" width="60" height="40" style="max-width: 100%;">
@@ -47,7 +47,7 @@ I'm always up for new challenges and constructive criticism.
 </br> 
 
 
-### ⚡ DevOps
+## ⚡ DevOps
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="aws" width="40" height="35" style="max-width: 100%;">
 &nbsp; <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
@@ -56,7 +56,7 @@ I'm always up for new challenges and constructive criticism.
 </p>
 </br>
 
-### 💪 Tools
+## 🛠 Tools
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/82816011/139558364-1413840c-fbf7-4457-abc0-6ceecca80020.png" alt="Agile" width="40" height="40" style="max-width: 100%;">
 &nbsp; <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40" style="max-width: 100%;">
@@ -68,20 +68,20 @@ I'm always up for new challenges and constructive criticism.
 </p>
 </br>
 
-### ⭐ GitHub stars
+## ⭐ GitHub Stars
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fhjoy&hide=contribs,prs&theme=tokyonight&show_icons=true)
 
 </br>
 
-### 👍 Most Used Languages
+## 🏆 Most Used Languages
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhjoy&theme=tokyonight"/>
 
 </br></br>
 
-### 👐 Profile visits
+## ✋ Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fhjoy.fhjoy&left_color=green&right_color=red)
 
 </br></br></br></br></br></br>
 
-## 😂 A random joke !
+## 😂 Random Joke !
 ![Jokes Card](https://readme-jokes.vercel.app/api)
