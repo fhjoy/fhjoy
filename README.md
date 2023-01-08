@@ -47,7 +47,7 @@ I'm always up for new challenges and constructive criticism.
 </br> 
 
 
-## ⚡ DevOps
+## ☁ DevOps
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="aws" width="40" height="35" style="max-width: 100%;">
 &nbsp; <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
