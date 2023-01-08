@@ -36,21 +36,24 @@ I'm always up for new challenges and constructive criticism.
 </p>
  
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 </p>
 </br>
 
+### ⚡ Testing
+<p align="left"> 
+<img src="https://user-images.githubusercontent.com/82816011/211215916-8f40e1c4-7b3e-431e-9aee-05b99c9a52c7.png" alt="Cypress" width="60" height="40" style="max-width: 100%;">
+&nbsp; <img src="https://user-images.githubusercontent.com/82816011/211215929-91de0c0f-114f-4fe4-a4fd-113368af9dee.png" alt="Jest" width="60" height="40" style="max-width: 100%;">
+</p>
+</br> 
+
+
 ### ⚡ DevOps
 <p align="left"> 
-<img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="docker" width="40" height="40" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="aws" width="40" height="35" style="max-width: 100%;">
 &nbsp; <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 &nbsp; <img src="https://user-images.githubusercontent.com/82816011/211212966-6285e976-ef1f-4d9e-8f74-06ef868dd998.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
 &nbsp; <img src="https://user-images.githubusercontent.com/82816011/211215030-65ad52a6-5368-4552-8882-ca4b37c5a47f.svg" alt="CI/CD" width="40" height="40" style="max-width: 100%;">
-
-
-
-</br>
-</br>
+</p>
 </br>
 
 ### 💪 Tools
@@ -63,9 +66,7 @@ I'm always up for new challenges and constructive criticism.
 &nbsp;<img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 &nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524231-01ec31b0-e775-44b8-9f32-727ea161cedc.png" alt="Ubuntu" width="40" height="40" style="max-width: 100%;">
 </p>
-
 </br>
-
 
 ### ⭐ GitHub stars
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fhjoy&hide=contribs,prs&theme=tokyonight&show_icons=true)
