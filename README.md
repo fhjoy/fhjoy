@@ -4,12 +4,12 @@ I am a Web developer with a strong desire to create new things. To get greater a
 I'm always up for new challenges and constructive criticism. 
 
 
-
-- 👯 I’m looking to collaborate on ... A Great team
-- 🤔 I’m looking for help with ... Full-time opportunities 
-- 💬 Ask me about ... Anything
+- 👯 I’m looking to collaborate on --> A Great team
+- 🤔 I’m looking for help with --> Full-time opportunities 
+- 💬 Ask me about --> Anything
 
 </br>
+
 
 ### 📫 Reach me
 
@@ -17,33 +17,48 @@ I'm always up for new challenges and constructive criticism.
  
 </br>
 
+
 ### 👇 Languages
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:   100%;">
-&nbsp;<img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
-&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523777-d30e1157-d460-4a83-b9e6-ba33691581b8.png" alt="TypeeScrpt" width="40" height="40" style="max-width: 100%;">
 &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">  
 &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
-&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523980-3b145ccb-f2ec-4126-a0f4-9cf7b7db8c22.png"alt="WordPress" width="40" height="40" style="max-width: 100%;">
+&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:   100%;">
+&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523777-d30e1157-d460-4a83-b9e6-ba33691581b8.png" alt="TypeeScrpt" width="40" height="40" style="max-width: 100%;">
+&nbsp;<img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
+&nbsp;<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+&nbsp;<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+&nbsp;<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+</p>
  
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
 </br>
 
+### ⚡ DevOps
+<p align="left"> 
+<img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="docker" width="40" height="40" style="max-width: 100%;">
+&nbsp; <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+&nbsp; <img src="https://user-images.githubusercontent.com/82816011/211212966-6285e976-ef1f-4d9e-8f74-06ef868dd998.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
+&nbsp; <img src="https://user-images.githubusercontent.com/82816011/211214117-86c181fa-2e5b-4a5b-97a4-5f6b27bb8234.png" alt="CI/CD" width="50" height="50" style="max-width: 100%;">
+
+
+</br>
+</br>
+</br>
 
 ### 💪 Tools
 <p align="left"> 
-  &nbsp; <img  alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" &nbsp; style="max-width: 100%;">
- &nbsp; <img  alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;">
- &nbsp; <img src="https://user-images.githubusercontent.com/82816011/139558364-1413840c-fbf7-4457-abc0-6ceecca80020.png" alt="Agile" width="40" height="40" style="max-width: 100%;">
- &nbsp;<img src="https://user-images.githubusercontent.com/82816011/139556852-a6bf3014-532a-4718-90c6-657b55445c98.png" alt="SEO" width="40" height="40" style="max-width: 100%;">
- &nbsp;<img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/82816011/139558364-1413840c-fbf7-4457-abc0-6ceecca80020.png" alt="Agile" width="40" height="40" style="max-width: 100%;">
+&nbsp; <img  alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" &nbsp; style="max-width: 100%;">
+&nbsp; <img  alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;">
  &nbsp;&nbsp;<img  alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width: 100%;"> 
 &nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524231-01ec31b0-e775-44b8-9f32-727ea161cedc.png" alt="Ubuntu" width="40" height="40" style="max-width: 100%;">
-
+&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139523980-3b145ccb-f2ec-4126-a0f4-9cf7b7db8c22.png"alt="WordPress" width="40" height="40" style="max-width: 100%;">
+&nbsp;<img src="https://user-images.githubusercontent.com/82816011/139556852-a6bf3014-532a-4718-90c6-657b55445c98.png" alt="SEO" width="40" height="40" style="max-width: 100%;">
+&nbsp;<img  alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 </p>
 
 </br>
