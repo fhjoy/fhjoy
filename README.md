@@ -45,7 +45,8 @@ I'm always up for new challenges and constructive criticism.
 <img src="https://user-images.githubusercontent.com/82816011/211213493-489fcfd7-581e-49ba-b170-1f5e43976927.png" alt="docker" width="40" height="40" style="max-width: 100%;">
 &nbsp; <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 &nbsp; <img src="https://user-images.githubusercontent.com/82816011/211212966-6285e976-ef1f-4d9e-8f74-06ef868dd998.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
-&nbsp; <img src="https://user-images.githubusercontent.com/82816011/211214117-86c181fa-2e5b-4a5b-97a4-5f6b27bb8234.png" alt="CI/CD" width="50" height="50" style="max-width: 100%;">
+&nbsp; <img src="https://user-images.githubusercontent.com/82816011/211215030-65ad52a6-5368-4552-8882-ca4b37c5a47f.svg" alt="CI/CD" width="40" height="40" style="max-width: 100%;">
+
 
 
 </br>
