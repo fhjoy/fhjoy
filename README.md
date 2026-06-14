@@ -7,8 +7,8 @@ I'm always up for new challenges and constructive criticism.
 * 🌍  I'm based in --> Offenburg, Germany
 * 🤝  I'm open to collaborating on --> JavaScript/TypeScript projects with a great team.
 * 🤔 I’m looking for help with --> Full-time opportunities
-* 🖥️  See my portfolio at --> [Résumé](https://fhjoy.github.io/Resume/)
-* 🚀  I'm currently working on --> [NATIF AI](https://natif.ai/)
+* 🖥️  See my portfolio at --> [Résumé](https://fhjoy.github.io/portfolio/)
+* 🚀  I'm currently working on --> 
 * 💬 Ask me about --> Anything
 
 </br>
