@@ -4,11 +4,11 @@ I am a Web developer with a strong desire to create new things. To get greater a
 I'm always up for new challenges and constructive criticism. 
 
 
-* 🌍  I'm based in --> Offenburg, Germany
-* 🤝  I'm open to collaborating on --> JavaScript/TypeScript projects with a great team.
-* 🤔 I’m looking for help with --> Full-time opportunities
-* 🖥️  See my portfolio at --> [Résumé](https://fhjoy.github.io/portfolio/)
-* 🚀  I'm currently working on --> 
+* 🌍  I'm based in --> Offenburg, Germany. Can be relocated in Germany
+* 🤝  I'm open to collaborating on --> Frontend/Full-stack projects with a great team.
+* 🤔  I’m looking for help with --> Full-time opportunities
+* 🖥️  [Portfolio](https://fhjoy.github.io/portfolio/)
+* 🚀  I'm currently working on --> Personal Full-stack App and learning Deutsch. 
 * 💬 Ask me about --> Anything
 
 </br>
@@ -67,21 +67,6 @@ I'm always up for new challenges and constructive criticism.
 &nbsp;<img src="https://user-images.githubusercontent.com/82816011/139524231-01ec31b0-e775-44b8-9f32-727ea161cedc.png" alt="Ubuntu" width="40" height="40" style="max-width: 100%;">
 </p>
 </br>
-
-## ⭐ GitHub Stars
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fhjoy&hide=contribs,prs&theme=tokyonight&show_icons=true)
-
-</br>
-
-## 🏆 Most Used Languages
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhjoy&theme=tokyonight"/>
-
-</br></br>
-
-## ✋ Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fhjoy.fhjoy&left_color=green&right_color=red)
-
-</br></br></br></br></br></br>
 
 ## 😂 Random Joke !
 ![Jokes Card](https://readme-jokes.vercel.app/api)
