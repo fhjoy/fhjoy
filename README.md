@@ -34,14 +34,14 @@ I am a web developer with **4+ years of professional experience** in frontend an
 | Delivery and collaboration | Git, GitLab, Docker, CI/CD, Jira, Confluence, Scrum, Kanban |
 | Additional experience | WordPress, WooCommerce, Webflow, SEO |
 
-## Developer humor 😄
-
-<p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&amp;theme=vue-dark" alt="Random developer joke"> </p>
-
 ## Let's connect
 
 I am currently open to full-time frontend and JavaScript/TypeScript full-stack positions in Germany.
 
 - [View my portfolio](https://fhjoy.github.io/portfolio/)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/md-faisal-hossain-germany/)
+
+## Developer humor 😄
+
+<p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&amp;theme=vue-dark" alt="Random developer joke"> </p>
 
