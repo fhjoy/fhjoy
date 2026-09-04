@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Frontend & Full-Stack Developer</strong><br>
-  Building accessible, maintainable and well-tested web applications with TypeScript, Vue.js, React and Node.js.
+  Building accessible, maintainable and well-tested web applications with TypeScript, Vue.js, React, Node.js and MongoDB.
 </p>
 
 <p align="center">
@@ -10,6 +10,8 @@
   <a href="https://www.linkedin.com/in/md-faisal-hossain-germany/">LinkedIn</a> ·
   <a href="https://github.com/fhjoy?tab=repositories">Repositories</a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fhjoy&label=Profile%20views&color=0f766e&style=flat-square" alt="GitHub profile views"> </p>
 
 ## About me
 
