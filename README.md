@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Faisal Hossain 👋</h1>
 
 <p align="center">
-  <strong>Frontend & Full-Stack Developer</strong><br>
-  Building accessible, maintainable and well-tested web applications with TypeScript, Vue.js, React, Node.js and MongoDB.
+  <strong>Frontend & Full-Stack Software Engineer</strong><br>
+  Building accessible, maintainable and well-tested web applications with TypeScript, Vue.js, React, Angular, Node.js and MongoDB.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About me
 
-I am a web developer with **4+ years of professional experience** in frontend and full-stack development. My work focuses on component-based user interfaces, accessibility, API integration, automated testing and the modernization of existing applications.
+I am a web engineer with **4+ years of professional experience** in frontend and full-stack development. My work focuses on component-based user interfaces, accessibility, API integration, automated testing and the modernization of existing applications.
 
 - Based in **Offenburg, Germany** and open to relocation within Germany
 - Experienced with **TypeScript, JavaScript, Vue.js, React, Node.js and MongoDB**
