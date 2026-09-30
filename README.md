@@ -28,11 +28,17 @@ I am a web developer with **4+ years of professional experience** in frontend an
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | TypeScript, JavaScript, Vue.js, React, HTML5, CSS3, SCSS, Material UI, Bootstrap |
+| Frontend | TypeScript, JavaScript, Vue.js, React, Angular, Vite, Tailwind CSS, HTML5, CSS3, SCSS, Material UI, Bootstrap |
 | Backend and APIs | Node.js, Express.js, REST APIs, GraphQL, MongoDB, Mongoose |
-| Testing and quality | Cypress, Jest, WCAG accessibility, code reviews, performance optimization |
-| Delivery and collaboration | Git, GitLab, Docker, CI/CD, Jira, Confluence, Scrum, Kanban |
+| Testing and quality | Cypress, Vitest, Jest, WCAG accessibility, code reviews, performance optimization |
+| Delivery and collaboration | Git, GitHub Actions, GitLab CI/CD, Docker, Vercel, Render, Jira, Confluence, Scrum, Kanban |
 | Additional experience | WordPress, WooCommerce, Webflow, SEO |
+
+## Featured project
+
+**[RoleNaviq](https://github.com/fhjoy/rolenaviq)** helps track job applications, interviews and progress in one workspace. Its React workspace and Angular Interview Prep are route-based micro-frontends: separate Vercel projects under one site. They share an Express API on Render and MongoDB Atlas. Vitest, Cypress, Docker Compose and GitHub Actions support testing and delivery. [Try the live app](https://rolenaviq.vercel.app/).
+
+Python/FastAPI job analysis and AI-assisted matching are planned for later.
 
 ## Let's connect
 
