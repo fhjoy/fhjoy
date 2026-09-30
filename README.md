@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://fhjoy.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/md-faisal-hossain-germany/">LinkedIn</a> ·
-  <a href="https://github.com/fhjoy?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/md-faisal-hossain-germany/">LinkedIn</a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fhjoy&label=Profile%20views&color=0f766e&style=flat-square" alt="GitHub profile views"> </p>
